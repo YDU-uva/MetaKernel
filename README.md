@@ -58,3 +58,14 @@ If MetaVRF is used in your paper/experiments, please cite the following paper.
     archivePrefix={arXiv},
     primaryClass={cs.LG}}
 ```
+
+If MetaKernel is used in your paper/experiments, please cite the following paper.
+
+```
+@article{du2021metakernel,
+  title={MetaKernel: Learning Variational Random Features with Limited Labels},
+  author={Du, Yingjun and Sun, Haoliang and Zhen, Xiantong and Xu, Jun and Yin, Yilong and Shao, Ling and Snoek, Cees GM},
+  journal={arXiv preprint arXiv:2105.03781},
+  year={2021}
+}
+```
