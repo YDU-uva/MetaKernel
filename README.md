@@ -2,6 +2,8 @@
 This repository contains source code of the ICML 2020 paper:(Learning to Learn Kernels with Variational Random Features)
 https://arxiv.org/abs/2006.06707
 
+The code of MetaKernel will be released soon. 
+https://arxiv.org/abs/2105.03781
 
 Learning to Learn Kernels with Variational Random Features
 ====================================================
