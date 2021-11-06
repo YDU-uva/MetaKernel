@@ -7,7 +7,7 @@ https://arxiv.org/abs/2105.03781
 The source code of ICML  2020 paper:(Learning to Learn Kernels with Variational Random Features)
 https://arxiv.org/abs/2006.06707 could be found in the https://github.com/Yingjun-Du/MetaVRF
 
-Learning to Learn Kernels with Variational Random Features
+MetaKernel: Learning Variational Random Features with Limited Labels
 ====================================================
 
 
