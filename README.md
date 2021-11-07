@@ -1,4 +1,4 @@
-# MetaVRF
+# MetaKernel
 
 
 The code of MetaKernel will be released soon. 
