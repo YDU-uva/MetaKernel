@@ -1,4 +1,4 @@
-# MetaKernel: Enhanced MetaVRF with Conditional Normalizing Flows
+# MetaKernel: Learning Variational Random Features with Limited Labels
 
 This repository contains the implementation of **MetaKernel**, an enhanced version of Meta Variational Random Features (MetaVRF) that incorporates **conditional normalizing flows** for improved few-shot learning performance.
 
@@ -8,7 +8,7 @@ Based on: **"MetaKernel: Learning Variational Random Features with Limited Label
 
 The MetaKernel approach extends the original MetaVRF framework by introducing conditional normalizing flows to generate richer and more informative posterior distributions over random Fourier feature bases.
 
-## Key Improvements over MetaVRF https://arxiv.org/abs/2006.06707
+## Key Improvements over MetaVRF 
 
 ### 1. Conditional Normalizing Flows
 - **Enhanced Posterior Distributions**: Uses coupling layers to transform simple Gaussian distributions into complex, multimodal posteriors
