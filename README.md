@@ -56,7 +56,7 @@ The MetaKernel approach extends the original MetaVRF framework by introducing co
 
 2. **Download the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/YDU-uva/MetaKernel.git
    cd MetaKernel
    ```
 
