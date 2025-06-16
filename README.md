@@ -8,22 +8,7 @@ Based on: **"MetaKernel: Learning Variational Random Features with Limited Label
 
 The MetaKernel approach extends the original MetaVRF framework by introducing conditional normalizing flows to generate richer and more informative posterior distributions over random Fourier feature bases.
 
-## Key Improvements over MetaVRF 
 
-### 1. Conditional Normalizing Flows
-- **Enhanced Posterior Distributions**: Uses coupling layers to transform simple Gaussian distributions into complex, multimodal posteriors
-- **Context-Dependent Transformations**: Flow parameters are conditioned on task-specific context information
-- **Richer Random Features**: Generates more diverse and informative random Fourier features
-
-### 2. Technical Innovations
-- **Coupling Layer Architecture**: Implements invertible transformations using affine coupling layers
-- **Bidirectional Transformations**: Supports both forward sampling and inverse density evaluation
-- **Flow Regularization**: Includes appropriate regularization terms to prevent overfitting
-
-### 3. Performance Benefits
-- **Better Few-Shot Accuracy**: Consistently improved performance on standard benchmarks
-- **More Discriminative Kernels**: Enhanced kernel representations lead to better classification
-- **Faster Adaptation**: Improved adaptation to new tasks with limited data
 
 ## Architecture Overview
 
